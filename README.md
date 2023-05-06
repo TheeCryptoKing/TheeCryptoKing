@@ -20,7 +20,7 @@
 <h3 align="left">Stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeCryptoKing&layout=compact" />
+
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=tokyonight" alt="TheeCryptoKing" /></a></p>
