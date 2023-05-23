@@ -26,6 +26,7 @@
 <h3 align="left">Current Stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
+
 [![Github Streak](https://streak-stats.demolab.com/?user=TheeCryptoKing&theme=tokyonight)](https://git.io/streak-stats)
 
 
