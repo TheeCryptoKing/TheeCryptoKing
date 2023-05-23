@@ -10,7 +10,7 @@
 <a href="mailto:ksbrowne1@gmail.com">Ksbrowne1@gmail.com</a>
 
 
-[![Github Streak](https://streak-stats.demolab.com/?user=TheeCryptoKing&theme=tokyonight)](https://git.io/streak-stats
+[![Github Streak](https://streak-stats.demolab.com/?user=TheeCryptoKing&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <h3 align="left">Languages and Tools:</h3>
