@@ -4,6 +4,8 @@
 <h3 align="left">Get in Contact With Me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/kwame-browne/" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/linkedin/0A66C2" /></a>
+  <a href=" https://medium.com/@theeecryptoking" target="blank"><img height="40" width="40" <iconify-icon icon="simple-icons:medium"></iconify-icon> /></a>
+ 
 </p>
 
 <h3 align="left">My email:</h3>
