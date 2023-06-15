@@ -27,6 +27,7 @@
 
 <h3 align="left">Current Stats:</h3>
 
+<p><img src="https://camo.githubusercontent.com/98b67e3……7573657…" alt="TheeCryptoKing's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=anuraghazra&rank_icon=github"></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
 
 
