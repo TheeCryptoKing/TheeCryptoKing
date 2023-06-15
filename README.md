@@ -38,5 +38,5 @@
 
 
 <h3 align="left">GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=github_dark" alt="TheeCryptoKing" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=moonlight" alt="TheeCryptoKing" /></a></p>
 
