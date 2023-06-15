@@ -28,7 +28,7 @@
 <h3 align="left">Current Stats:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
-![Kwame's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&theme=dark&show_icons=true)
+<img align="left" alt="TheeCryptoking" src=(https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&theme=dark&show_icons=true)/>
 
 
 [![Github Streak](https://streak-stats.demolab.com/?user=TheeCryptoKing&theme=tokyonight)](https://git.io/streak-stats)
