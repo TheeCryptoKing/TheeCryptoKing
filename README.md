@@ -25,7 +25,7 @@
 
 </p>
 
-<summary>:zap: Current Stats:</summary>
+<summary>zap: Current Stats:</summary>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
 
