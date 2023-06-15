@@ -27,9 +27,8 @@
 
 <h3 align="left">Current Stats:</h3>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
 
-<p><img align="center" src="https://github-readme-stats-gc15-git-main-theecryptoking.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=radical" alt="TheeCryptoKing" /></p>
 
 
 
