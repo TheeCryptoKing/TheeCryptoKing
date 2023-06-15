@@ -27,8 +27,8 @@
 
 <h3 align="left">Current Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&rank_icon=github&theme=github_dark" alt="TheeCryptoKing's GitHub stats"></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=github_dark" alt="TheeCryptoKing" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&rank_icon=github&theme=tokyonight" alt="TheeCryptoKing's GitHub stats"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=tokyonight" alt="TheeCryptoKing" /></p>
 
 
 
@@ -38,5 +38,5 @@
 
 
 <h3 align="left">GitHub Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=moonlight" alt="TheeCryptoKing" /></a></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=tokyonight" alt="TheeCryptoKing" /></a></p>
 
