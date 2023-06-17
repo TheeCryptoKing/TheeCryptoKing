@@ -1,6 +1,6 @@
 <h1 align="center">Hello, Welcome to my GitHub Profile!</h1>
 <!-- <h3 align="center">My name is Kwame Browne, im a aspiring Software Developer.</h3> -->
-<img src="image_2023-06-15_022622763.png"/>
+<img src="image_2023-06-16_222728672.png"/>
 
 <h3 align="left">Get in Contact With Me:</h3>
 <p align="left">
