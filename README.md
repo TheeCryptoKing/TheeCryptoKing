@@ -9,8 +9,6 @@
  
 </p>
 
-<h3 align="left">My email:</h3>
-<a href="mailto:ksbrowne1@gmail.com">Ksbrowne1@gmail.com</a>
 
 
 
