@@ -23,8 +23,8 @@
 
 
 </p>
-
-<h3 align="left">Current Stats:</h3>
+<details><summary>Current Stats:</summary>
+<!-- <h3 align="left">Current Stats:</h3> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&rank_icon=github&theme=highcontrast&no-frame=true" alt="TheeCryptoKing's GitHub stats"></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheeCryptoKing&show_icons=true&theme=tokyonight" alt="TheeCryptoKing" /></p> -->
@@ -34,8 +34,9 @@
 
 
 [![Github Streak](https://streak-stats.demolab.com/?user=TheeCryptoKing&theme=javascript-dark)](https://git.io/streak-stats)
-
+</details>
 
 <h3 align="left">GitHub Trophies:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=juicyfresh&row=1&no-frame=true" alt="TheeCryptoKing" /></a></p>
+
 
