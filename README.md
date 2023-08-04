@@ -25,8 +25,8 @@
 <h4>UI/UX Design</h4>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-html-64%20(1).png"/>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-css-64%20(1).png"/>
-<img height="40" width="40" src=""/>
-<img height="40" width="40" src=""/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-tailwind-css-100.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-bootstrap-64.png"/>
 <br/>
 <h4>Frontend</h4>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-react-80.png"/>
