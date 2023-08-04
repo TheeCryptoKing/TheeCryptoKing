@@ -22,6 +22,22 @@
   <img height="40" width="40" src="https://simpleicons.vercel.app/adobeillustrator/FF9A00" /> 
   <img height="40" width="40" src="https://simpleicons.vercel.app/adobephotoshop/31A8FF" />  
   <img height="40" width="40" src="https://simpleicons.vercel.app/adobeaftereffects/9999FF" />  -->
+<h4>UI/UX Design</h4>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-html-64%20(1).png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-css-64%20(1).png"/>
+<img height="40" width="40" src=""/>
+<img height="40" width="40" src=""/>
+<br/>
+<h4>Frontend</h4>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-react-80.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-javascript-64.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-java-64%20(1).png"/>
+<br/>
+<h4>Backend</h4>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-flask-64.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-sql-48.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-python-100.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-postgres-100.png"/>
 
   
 
