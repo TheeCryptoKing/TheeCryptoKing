@@ -3,8 +3,8 @@
 
 <details><summary><h3 align="left">:file_folder:Get in Contact With Me:card_index_dividers:</h3></summary>
 <p align="left">
-  <a href="https://www.linkedin.com/in/kwame-browne/" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/linkedin/0A66C2" /></a>
-  <a href="https://medium.com/@theeecryptoking" target="blank"><img height="40" width="40" src="https://simpleicons.vercel.app/medium/ffffff" /></a>
+  <a href="https://www.linkedin.com/in/kwame-browne/" target="blank"><img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-linkedin-50%20(1).png" /></a>
+  <a href="https://medium.com/@theeecryptoking" target="blank"><img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-medium-64.png" /></a>
  
 </p></details>
 
@@ -15,13 +15,6 @@
 
 <details><summary><h3 align="left">:iphone:Languages & Tools:hammer_and_pick:</h3></summary>
 <p align="left"> 
-<!--   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <img height="40" width="40" src="https://simpleicons.vercel.app/adobeillustrator/FF9A00" /> 
-  <img height="40" width="40" src="https://simpleicons.vercel.app/adobephotoshop/31A8FF" />  
-  <img height="40" width="40" src="https://simpleicons.vercel.app/adobeaftereffects/9999FF" />  -->
 <h4>UI/UX Design</h4>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-html-64%20(1).png"/>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-css-64%20(1).png"/>
@@ -59,4 +52,48 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TheeCryptoKing&theme=juicyfresh&row=1&no-frame=true" alt="TheeCryptoKing" /></a></p>
 </details>
 
-
+<h3 align="center"> :computer: Techincal Projects :desktop_computer:</h3>
+<table align="center">
+<thead>
+  <th>Project</th>
+  <th>Description</th>
+  <th>Tech stack</th>
+  <th>Features</th>
+  <th>Repo</th>
+  <th>Demo</th>
+</thead>
+<tbody>
+  <tr>
+    <td>NBA Stats</td>
+    <td>Site to collect cards for your favorite NBA players and hold a favorites collection of their current or past teams. You will be able to hold all of their stats on their Cards. Perfect for any Enthusiast!</td>
+    <td><ul><li>Vanilla JS</li><li>Bootstrap CSS</li><li>HTML</li><li>CSS</li></ul></td>
+    <td><ul><li>Full CRUD </li><li>API utilization</li><li>Internal Routing</li></ul></td>
+    <td><a href="https://github.com/TheeCryptoKing/NBA-Stats-Elite-" target="_blank">View</a></td>
+    <td><a>Coming Soon!</a></td>
+  </tr>
+  <tr>
+    <td>Anime Searcher 3000</td>
+    <td>Look up current, popular, past anime of any kind and search nostalgic anime. Favorite the ones you like and create Fanfics of your favorite ones!</td>
+    <td><ul><li>React</li><li>Vanilla JS</li><li>BootStrap</li><li>HTML</li><li>Raw CSS</li></ul></td>
+    <td><ul><li>Full CRUD </li><li>APi utilization</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
+    <td><a href="https://github.com/TheeCryptoKing/Anime-Searcher-3000" target="_blank">View</a></td>
+    <td><a href="https://646d38d6d2e70d1331a13595--adorable-cannoli-5616dc.netlify.app/Home" target="_blank">Link</a></td>
+  </tr>
+  <tr>
+    <td>METSYS</td>
+    <td>A python command line RPG. Where you must decide the warrior you need to be to defeat this system that is trying to kill you at every turn, FOr some reason this world doesn't feel real and you can't put your tongue on it.</td>
+    <td><ul><li>Python</li><li>SQL</li><li>SQLAlchemy</li><li>Flask</li><li>Flask_Restful</li></ul></td>
+    <td><ul><li>Full CRUD </li><li>Python RPG, with character selection and battle sequences</li><li>User profile creation, that tracks items and data</li><li>All original created DATA</li></ul></td>
+    <td><a href="https://github.com/TheeCryptoKing/NBA-Stats-Elite-" target="_blank">View</a></td>
+    <td><a>Coming Soon!</a></td>
+  </tr>
+  <tr>
+    <td>Bold Skin</td>
+    <td>Ecommerce Site for conscious and sustainable Men’s HealthCare. Dedicated to saving the planet and helping one product at a time. Using sustainable, non-carogenic, and non-cruelty products to complete our mission. </td>
+    <td><ul><li>React</li><li>React Router V6</li><li>React Bootstrap</li><li>Flask</li><li>Flask-Restful</li><li>Flask-SQLAlchemy</li></td>
+      <td><ul><li>Full CRUD </li><li>User Creation & Validation</li><li>Fomirk & Yup forms</li><li>Full "Hypothetical" Shopping Functionality</li><li>Onload Animations</li><li>Responsive Design & Custom Original Designed Products</li></ul></td>
+      <td><a href="https://github.com/TheeCryptoKing/Bold-Skin/"target="_blank">View</a></td>
+      <td><a>Coming Soon!</a></td>
+  </tr>
+</tbody>
+</table>
