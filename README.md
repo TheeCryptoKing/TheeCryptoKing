@@ -66,7 +66,7 @@
   <tr>
     <td>NBA Stats</td>
     <td>Site to collect cards for your favorite NBA players and hold a favorites collection of their current or past teams. You will be able to hold all of their stats on their Cards. Perfect for any Enthusiast!</td>
-    <td><ul><li>Vanilla JS</li><li>Bootstrap CSS</li><li>HTML</li><li>CSS</li></ul></td>
+    <td><ul><li>Vanilla JS</li><li>Bootstrap CSS</li><li>HTML</li></ul></td>
     <td><ul><li>Full CRUD </li><li>API utilization</li><li>Internal Routing</li></ul></td>
     <td><a href="https://github.com/TheeCryptoKing/NBA-Stats-Elite-" target="_blank">View</a></td>
     <td><a>Coming Soon!</a></td>
@@ -74,7 +74,7 @@
   <tr>
     <td>Anime Searcher 3000</td>
     <td>Look up current, popular, past anime of any kind and search nostalgic anime. Favorite the ones you like and create Fanfics of your favorite ones!</td>
-    <td><ul><li>React</li><li>Vanilla JS</li><li>BootStrap</li><li>HTML</li><li>Raw CSS</li></ul></td>
+    <td><ul><li>React</li><li>Vanilla JS</li><li>BootStrap</li><li>HTML</li></ul></td>
     <td><ul><li>Full CRUD </li><li>APi utilization</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
     <td><a href="https://github.com/TheeCryptoKing/Anime-Searcher-3000" target="_blank">View</a></td>
     <td><a href="https://646d38d6d2e70d1331a13595--adorable-cannoli-5616dc.netlify.app/Home" target="_blank">Link</a></td>
