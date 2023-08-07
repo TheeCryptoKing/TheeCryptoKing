@@ -22,7 +22,7 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-bootstrap-64.png"/>
 <br/>
 <h4>Frontend</h4>
-<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-react-80.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-react-50.png"/>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-javascript-64.png"/>
 <img height="40" width="40" src="https://raw.githubusercontent.com/TheeCryptoKing/TheeCryptoKing/main/icons8-java-64%20(1).png"/>
 <br/>
