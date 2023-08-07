@@ -84,7 +84,7 @@
     <td>A python command line RPG. Where you must decide the warrior you need to be to defeat this system that is trying to kill you at every turn, FOr some reason this world doesn't feel real and you can't put your tongue on it.</td>
     <td><ul><li>Python</li><li>SQL</li><li>SQLAlchemy</li><li>Flask</li><li>Flask_Restful</li></ul></td>
     <td><ul><li>Full CRUD </li><li>Python RPG, with character selection and battle sequences</li><li>User profile creation, that tracks items and data</li><li>All original created DATA</li></ul></td>
-    <td><a href="https://github.com/TheeCryptoKing/NBA-Stats-Elite-" target="_blank">View</a></td>
+    <td><a href="https://github.com/TheeCryptoKing/METSYS" target="_blank">View</a></td>
     <td><a>Coming Soon!</a></td>
   </tr>
   <tr>
