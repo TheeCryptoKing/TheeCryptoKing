@@ -69,7 +69,7 @@
     <td><ul><li>Vanilla JS</li><li>Bootstrap CSS</li><li>HTML</li></ul></td>
     <td><ul><li>Full CRUD </li><li>API utilization</li><li>Internal Routing</li></ul></td>
     <td><a href="https://github.com/TheeCryptoKing/NBA-Stats-Elite-" target="_blank">View</a></td>
-    <td><a>Coming Soon!</a></td>
+    <td><a href="https://tangerine-lolly-52e65e.netlify.app">Link</a></td>
   </tr>
   <tr>
     <td>Anime Searcher 3000</td>
