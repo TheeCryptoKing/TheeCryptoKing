@@ -85,7 +85,7 @@
     <td><ul><li>Python</li><li>SQL</li><li>SQLAlchemy</li><li>Flask</li><li>Flask_Restful</li></ul></td>
     <td><ul><li>Full CRUD </li><li>Python RPG, with character selection and battle sequences</li><li>User profile creation, that tracks items and data</li><li>All original created DATA</li></ul></td>
     <td><a href="https://github.com/TheeCryptoKing/METSYS" target="_blank">View</a></td>
-    <td><a>Coming Soon!</a></td>
+    <td><a> N/A </a></td>
   </tr>
   <tr>
     <td>Bold Skin</td>
