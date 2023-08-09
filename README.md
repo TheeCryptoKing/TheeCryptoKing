@@ -77,7 +77,7 @@
     <td><ul><li>React</li><li>Vanilla JS</li><li>BootStrap</li><li>HTML</li></ul></td>
     <td><ul><li>Full CRUD </li><li>APi utilization</li><li>Responsive Design</li><li>Full CRUD Functionality</li></ul></td>
     <td><a href="https://github.com/TheeCryptoKing/Anime-Searcher-3000" target="_blank">View</a></td>
-    <td><a href="https://646d38d6d2e70d1331a13595--adorable-cannoli-5616dc.netlify.app/Home" target="_blank">Link</a></td>
+    <td><a href="https://adorable-cannoli-5616dc.netlify.app/" target="_blank">Link</a></td>
   </tr>
   <tr>
     <td>METSYS</td>
