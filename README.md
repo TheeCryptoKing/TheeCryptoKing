@@ -92,7 +92,7 @@
     <td>Ecommerce Site for conscious and sustainable Men’s HealthCare. Dedicated to saving the planet and helping one product at a time. Using sustainable, non-carogenic, and non-cruelty products to complete our mission. </td>
     <td><ul><li>React</li><li>React Router V6</li><li>React Bootstrap</li><li>Flask</li><li>Flask-Restful</li><li>Flask-SQLAlchemy</li></td>
       <td><ul><li>Full CRUD </li><li>User Creation & Validation</li><li>Fomirk & Yup forms</li><li>Full "Hypothetical" Shopping Functionality</li><li>Onload Animations</li><li>Responsive Design & Custom Original Designed Products</li></ul></td>
-      <td><a href="https://github.com/TheeCryptoKing/Bold-Skin/"target="_blank">View</a></td>
+      <td><a href="https://github.com/TheeCryptoKing/Bold-Skin-Live/tree/main"target="_blank">View</a></td>
       <td><a href="https://bold-skin.vercel.app">Link</a></td>
   </tr>
 </tbody>
